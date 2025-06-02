@@ -35,11 +35,11 @@
 
 - 💬 **LLM-Powered Call Transcript Summarizer**
   - Uses Llama3 (Ollama), Streamlit UI, and urgency classification
-  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/LLM-Call-Summarizer)
+  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/LLM-Call-Transcript-Summarizer)
 
 - 🤖 **WellBeing Chatbot**
   - AI-powered mental health assistant with mood tracker
-  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/WellBeing-Chatbot)
+  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/WellBeing-Streamlit-chatbot-project)
 
 ---
 

@@ -40,7 +40,10 @@
 - 🤖 **WellBeing Chatbot**
   - AI-powered mental health assistant with mood tracker
   - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/WellBeing-Streamlit-chatbot-project)
-
+    
+- 🤖 **FakeDetect**
+  - Flask web app powered by an LLM (via Ollama) that detects fake news based on user-input headlines.(HTML,CSS,Bootstrap,Python)
+  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/fake-detect-fake-news-detector)
 ---
 
 ### 🌐 Connect with Me

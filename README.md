@@ -18,7 +18,7 @@
 - **Frameworks**: Streamlit, LangChain, Flask
 - **AI/ML**: Scikit-learn, TensorFlow, OpenCV, Llama3 (Ollama)
 - **Tools**: Git, Jupyter, VS Code
-- **Other**: REST APIs, NLP, Pandas, SQL, GitHub Actions
+- **Other**: NLP, Pandas, SQL, GitHub Actions
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: Python, C, C++
+- **Languages**: Python, C, C++, HTML/CSS, JS
 - **Frameworks**: Streamlit, LangChain, Flask
 - **AI/ML**: Scikit-learn, TensorFlow, OpenCV, Llama3 (Ollama)
 - **Tools**: Git, Jupyter, VS Code

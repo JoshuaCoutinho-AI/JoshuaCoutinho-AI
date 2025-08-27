@@ -48,7 +48,7 @@
 - 🎵 **Song Recommendation System**
   - A content-based recommender using cosine similarity on audio features (danceability, energy, tempo, etc.).
   - Built with **Python, Pandas, Scikit-learn, and Streamlit** for interactive usage.
-  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/Song-Recommendation-System-ML4E-Induction-Task)
+  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/Song-Recommendation-System-ML4E-Induction-Task-)
 
 ---
 

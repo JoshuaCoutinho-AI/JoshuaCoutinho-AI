@@ -42,9 +42,16 @@
   - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/WellBeing-Streamlit-chatbot-project)
     
 - 🔍 **FakeDetect**
-  - Flask web app powered by an LLM (via Ollama) that detects fake news based on user-input headlines.(HTML,CSS,Bootstrap,Python)
+  - Flask web app powered by an LLM (via Ollama) that detects fake news based on user-input headlines. (HTML, CSS, Bootstrap, Python)
   - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/fake-detect-fake-news-detector)
+
+- 🎵 **Song Recommendation System**
+  - A content-based recommender using cosine similarity on audio features (danceability, energy, tempo, etc.).
+  - Built with **Python, Pandas, Scikit-learn, and Streamlit** for interactive usage.
+  - [🔗 View Repository](https://github.com/JoshuaCoutinho-AI/Song-Recommendation-System)
+
 ---
+
 
 ### 🌐 Connect with Me
 
